@@ -1,4 +1,4 @@
-Este programa en Java gestiona las ventas mensuales de tres departamentos durante los doce meses del año utilizando una matriz bidimensional y un sacanner con menú interactivo para cada opción que quiera realizar el usuario.
+Este programa gestiona las ventas mensuales de tres departamentos durante los doce meses del año utilizando una matriz bidimensional y un sacanner con menú interactivo para cada opción que quiera realizar el usuario.
 
 Sus métodos son los sigueientes:
 
